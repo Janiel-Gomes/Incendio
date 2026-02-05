@@ -1,6 +1,6 @@
 # 🔥 FireGuard Pro - IoT Fire Detection System
 
-智能防火 (Smart Fire Protection) - Intelligent fire detection and monitoring system based on **Raspberry Pi Pico W** and **FreeRTOS**.
+(Smart Fire Protection) - Intelligent fire detection and monitoring system based on **Raspberry Pi Pico W** and **FreeRTOS**.
 
 ![Diagrama Técnico do Sistema](file:///C:/Users/Janiel%20Gomes/.gemini/antigravity/brain/df753f28-7a23-4460-aef1-557be2b6d62d/fireguard_block_diagram_schematic_1770254174964.png)
 
